@@ -1,0 +1,17 @@
+<html>
+<head>
+<body>.
+<body bgcolor ="black" text="green">
+
+<h1 align="center">GK</h1>
+<h2 align="center">By Suraj</h2>
+</head>
+<br>
+
+
+<p1>GK is important for life</p1>
+<marquee><p2>Subject gk is very important because we can learn everything about the world</p2></marquee>
+<p2>we can learn like what would happen if we do this,who is current PM</p2>
+
+
+</html>
